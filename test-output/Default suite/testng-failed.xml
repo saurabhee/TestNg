@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="com.scp.testng.AppConstants"/>
+      <class name="com.scp.testng.LoginController"/>
+      <class name="com.scp.testng.AppTest"/>
+      <class name="com.scp.testng.LoginTest"/>
+      <class name="com.scp.testng.App"/>
+      <class name="com.scp.testng.LoginDAOImpl"/>
+      <class name="com.scp.testng.LoginDAO"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Failed suite [Default suite] -->
